@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Minha Receita</title>
+</head>
+<body>
+<p>Nome: Ariel Isidro Nina Saavedra</p>
+<br />
+<h1>MACARRÃO DE PANELA COM MOLHO E FRANGO DESFIADO</h1>
+
+<ul><strong>INGREDIENTES:</strong>
+    <li>Macarrão curto (Penne, Parafuso)</li>
+    <li>Frango cozido e desfiado</li>
+    <li>Molho de tomate</li>
+    <li>Alho, cebola, azeite e sal</li>
+    <li>Água quente</li>
+    <li>Queijo para finalizar</li>
+</ul>
+<ol><strong>MODO DE PREPARO:</strong>
+    <li>Refogue alho e cebola, adicione frango e molho de tomate.</li>
+    <li>Coloque o macarrão cru e cubra com água.</li>
+    <li>Cozinhe até o macarrão ficar no ponto (acresente água se precisar).</li>
+    <li>Finalize com o queijo ralado.</li>
+</ol>
+
+</body>
+</html>
