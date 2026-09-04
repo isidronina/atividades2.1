@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Atividade_2</title>
+</head>
+<body>
+<h1>Exercicio - Curriculum vitae(Lista e Link)</h1>
+<h2>Menu</h2>
+<a href="#Dados_Pessoais">Dados Pessoais</a><br />
+<a href="#Objetivo">Objetivo</a><br />
+<a href="#Formação_Acadêmica">Formação Acadêmica</a><br />
+<a href="#Experiência_Profissional">Experiência Profissional</a><br />
+<a href="#Atividades_Complementares">Atividades Complementares</a><br />
+<a href="#Idiomas">Idiomas</a><br />
+
+<h2 id="Dados_Pessoais">Dados Pessoais</h2>
+<p>Nome: Miguel Santos Soares</p>
+<p>Email: <a href="mailto:Miguel@email.com">Miguel@email.com</a></p>
+<p>GitHub: <a href="https://github.com/isidronina">Meu GitHub</a></p>
+<hr />
+
+<h2 id="Objetivo">Objetivo</h2>
+<p>Busco uma oportunidade de desenvolver profissionalmente meu conhecimentos adquiridos, ampliando meus conhecimentose contribuir com a empresa.</p>
+<hr />
+
+<h2 id="Formação_Acadêmica">Formação Acadêmica</h2>
+<ul>
+    <li>
+        <strong>Bacharelado em Ciência da Computação</strong>-Instituto Federal de Tecnoligia Avançada(IFTA)2021-2025
+        <ul>
+            <li>Trabalho de conclusão: Desenvolvimento de um Alagoritimo usado como pagamento de uma Feira de Ciências.</li>
+        </ul>
+    </li>
+    <li>
+        <strong>Bootcamp Full-Stack Develper Web & Mobile</strong>-CodeHorizon labs 2024(450h)
+        <ul>
+            <li>Stack:Node.js, React, Java, PhP</li>
+        </ul>
+    </li>
+</ul>
+<hr />
+
+<h2 id="Experiência_Profissional">Experiência Profissional</h2>
+<ul>
+    <li><strong>Desenvolvedor Full-Stack Pleno</strong> - Nova Tecnoligia Resolução-2025</li>
+    <li><strong>Desenvolvedor Web Pleno</strong> - Apple Desing Corporação-2016</li>
+    <li><strong>Desenvolvedor Web Pleno</strong> - Macrosoft Desing-2010</li>
+    
+</ul>
+<hr />
+
+<h2 id="Atividades_Complementares">Atividades Complementares</h2>
+<ul>
+    <li><strong>Participação no Hackathon TechInovaBR (2020)</strong> - Desenvolvimento de um Site de venda de Marmtitas de forma inteligente.</li>
+    <li><strong>Voluntario na ONG Codeall (2021)</strong> - Instrutor Voluntário de logica de programação.</li>
+    <li><strong>Maratona de programação SBC</strong> - Compertição focada na resolução de problemas usando programação WEB.</li>
+    
+</ul>
+<hr />
+
+<h2 id="Idiomas">Idiomas</h2>
+<ul>
+    <li>Ingles - Fluente 
+        <ul>
+            <li>Escrever: Conhecimento em tecnicas de documentos, relátorios sem barreiaras.</li>
+            <li>Ler: Leitura avançada, com otimo entendimento de artigos acadêmicos, e códigos complexos.</li>
+            <li>Compreender: Entendimento total em reuniões dinâmicas, e palestras em velocidade nativa.</li>
+            <li>Falar: Conversação natural e clara para apresentar projetos e debates em equipe.</li>
+        </ul>
+    </li>
+    <li>Espanhol - Intermediário
+        <ul>
+            <li>Escrever: Elaboração de textos formais e mensagens estruturadas com boa coesão.</li>
+            <li>Ler: Leitura autônoma de manuais de usários, atigos e especificações tecnicas.</li>
+            <li>Compreender: Boa absorção de conhecimentos em reuniões e apresentações.</li>
+            <li>Falar: Comunicação eficaz para sanar dúvidas e expressar ideias.</li>
+        </ul>
+    </li>
+</ul>
+
+    
+</body>
+</html>
