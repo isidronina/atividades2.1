@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Usando ul,ol,li</title>
+</head>
+<body>
+<p>Nome: Ariel Isidro Nina Saavedra</p>
+A)<br />
+<dl>
+    <dt>Html</dt>
+    <dd>Html Básico</dd>
+    
+    <dt>PHP</dt>
+    <dd>PHP Básico</dd>
+    <dd>PHP Intermediário</dd>
+    <dd>PHP Avançado</dd>
+</dl>
+<hr />
+B)<br />
+<p>O resultado deste código HTML é:</p>
+<ol>
+    <li>Introdução
+        <ol>
+            <li>O que e HTML</li>
+            <li>O que e XHTML</li>
+            <li>O que e CSS</li>
+        </ol>
+    </li>
+    <li>Básico
+        <ol>
+            <li>Como se cria um site ?</li>
+            <li>Que programas sao necessario para criar um site</li>
+            <li>Como criar seu primeiro site-"Ola mundo!"</li>
+        </ol>
+    </li>
+    <li>Textos</li>
+    <li>SEO</li>
+    <li>Monetizacao</li>
+</ol>
+<hr />
+C)
+<ol>
+    <li>Introdução
+        <ol>
+            <li>O que e HTML</li>
+            <li>O que e XHTML</li>
+            <li>O que e CSS</li>
+        </ol>
+    </li>
+    <li>Básico
+        <ol>
+            <li>Como se criar um site ?</li>
+            <li>Que programas sao necessario para se criar um site ?</li>
+                <ul>
+                    <li>Bloco de notas</li>
+                    <li>Notapad++</li>
+                    <li>Dreamweaver</li>
+                </ul>
+            <li>Com criar seu primeiro site - "Ola mundo!"</li>
+        </ol>
+    </li>
+</ol>
+
+
+</body>
+</html>
