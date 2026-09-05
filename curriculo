@@ -3,9 +3,11 @@
 <head>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Atividade_2</title>
+    <title>Curriculo</title>
 </head>
 <body>
+<p>Nome: Ariel Isidro Nina Saavedra</p>
+<br />
 <h1>Exercicio - Curriculum vitae(Lista e Link)</h1>
 <h2>Menu</h2>
 <a href="#Dados_Pessoais">Dados Pessoais</a><br />
@@ -18,7 +20,7 @@
 <h2 id="Dados_Pessoais">Dados Pessoais</h2>
 <p>Nome: Miguel Santos Soares</p>
 <p>Email: <a href="mailto:Miguel@email.com">Miguel@email.com</a></p>
-<p>GitHub: <a href="https://github.com/isidronina">Meu GitHub</a></p>
+<p>GitHub: <a href="https://github.com/isidronina" target="_blank">Meu GitHub</a></p>
 <hr />
 
 <h2 id="Objetivo">Objetivo</h2>
